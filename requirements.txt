@@ -1,0 +1,9 @@
+beanstalkc
+flask
+flask-marshmallow
+flask-migrate
+flask-sqlalchemy
+marshmallow-sqlalchemy
+marshmallow==3.0.0b6
+mysql-python
+paramiko
